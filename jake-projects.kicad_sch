@@ -1579,36 +1579,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "i forget why we decided to \nuse this switch instead of \nthe SPST (the one that didnt \nhave two outputs)"
-		(exclude_from_sim no)
-		(at 123.698 105.664 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "06e122f4-d2f9-49b9-8853-4fe2a58f83f7")
-	)
-	(text "sorry jake i kinda took \"inspiration\" here from yours (in regards to the reset stuff)\nupdate: also the decoupling capacitor :/"
-		(exclude_from_sim no)
-		(at 189.23 94.996 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "1b50276e-f2e0-42db-b5ff-e4fe644f8516")
-	)
-	(text "Error: U1 pad 21 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 11 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 15 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 9 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 10 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 13 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 16 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 17 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 18 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 19 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 20 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 14 not found in Package_DIP:DIP-8_W7.62mm_Socket.\nError: U1 pad 12 not found in Package_DIP:DIP-8_W7.62mm_Socket."
-		(exclude_from_sim no)
-		(at 72.898 46.482 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "d91c7193-e9a5-4a42-9517-c1cd72809584")
-	)
 	(junction
 		(at 189.23 107.95)
 		(diameter 0)
@@ -3078,7 +3048,7 @@
 				)
 			)
 		)
-		(property "Value" ";-;"
+		(property "Value" "usr"
 			(at 228.854 117.856 0)
 			(effects
 				(font
@@ -3154,7 +3124,7 @@
 				)
 			)
 		)
-		(property "Value" ";-;"
+		(property "Value" "usr"
 			(at 229.87 135.89 0)
 			(effects
 				(font
